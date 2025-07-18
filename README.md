@@ -25,3 +25,8 @@ This project analyzes public sentiment toward a **brand or celebrity** using use
 - `Reddit API` or any comment scraping module
 
 ---
+
+
+
+
+<img width="1911" height="886" alt="image" src="https://github.com/user-attachments/assets/cbd17935-087b-416e-9831-6c30ab91bcb9" />
