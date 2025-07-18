@@ -2,8 +2,8 @@ from scrapper.reddit_scrapper import reddit_scrapper
 from sentiment.analyze_sentiment import get_sentiment
 from database.db import insert_comment
 
-def main():
-    brand = input("🔍 Enter a brand to analyze: ").strip()
+def main(brand):
+    # brand = input("🔍 Enter a brand to analyze: ").strip()
 
     print(f"\n📡 Scraping Reddit for '{brand}'...")
     comments = reddit_scrapper(brand)

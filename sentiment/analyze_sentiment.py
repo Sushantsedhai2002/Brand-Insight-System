@@ -16,3 +16,6 @@ def get_sentiment(text):
   
 
 # print(get_sentiment("Buda le chatxan ekdam"))
+
+
+
